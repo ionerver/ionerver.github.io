@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ionerver.github.io/ionerver.ionerver
+Sitemap: https://ionerver.github.io/app/ionerver.ionerver
+Sitemap: https://ionerver.github.io/assets/ionerver.ionerver
+Sitemap: https://ionerver.github.io/css/ionerver.ionerver
+Sitemap: https://ionerver.github.io/includes/ionerver.ionerver
+Sitemap: https://ionerver.github.io/item/ionerver.ionerver
+Sitemap: https://ionerver.github.io/src/ionerver.ionerver
